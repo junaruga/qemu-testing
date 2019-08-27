@@ -7,7 +7,7 @@ addons:
     packages:
 #      - qemu-user-static
 #      - binfmt-support
-      - docker-ce
+#      - docker-ce
 
 services:
   - docker
